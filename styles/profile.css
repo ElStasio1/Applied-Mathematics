@@ -1,0 +1,22 @@
+.block-profile{
+    width: 750px;
+    background-color: rgb(240, 240, 240);
+    border-radius: 25px;
+    padding-top: 10px;
+}
+.profile-items {
+    font-weight: 200;
+    color: #313131;
+}
+.more-link-profile {
+	background-color: #42a9f8;
+	color: #fff;
+
+}
+
+.more-link-profile:hover {
+	background-color: #199afc;
+	color: #fff;
+	text-decoration: none;
+
+}
